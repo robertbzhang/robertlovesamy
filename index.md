@@ -1,3 +1,4 @@
 Robert likes to burrow into Amy's neck.
-
+<p>
 <img width=300 src="robert-burrowing.jpg" />
+</p>
